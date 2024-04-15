@@ -43,7 +43,7 @@ Used AWS Certificate Manager to provide the SSL certificate for new domain name:
 <br />
 <br />
 Completed distribution in CloudFront with new domain name and SSL certificate:  <br/>
-<[img src="https://imgur.com/YavQJhV.png" height="80%" width="80%" alt="Static Website Project Steps"/>  
+<img src="https://imgur.com/YavQJhV.png" height="80%" width="80%" alt="Static Website Project Steps"/>  
 <br />
 <br />
 Tested the website using url:  <br/>
