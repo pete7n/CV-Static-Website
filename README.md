@@ -1,7 +1,7 @@
 <h1>CV Static Website</h1>
 
 <h2>Description</h2>
-Project consists of a static website hosted using AWS.
+Project consists of a static website, hosted with AWS.
 <br />
 
 <h2>AWS Products Used</h2>
