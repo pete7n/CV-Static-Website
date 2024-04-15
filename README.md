@@ -13,7 +13,7 @@ Project consists of a static website hosted using AWS.
 
 <h2>Other Products Used</h2>
 
-- <b>w3schools.com</b> (21H2)
+- <b>w3schools.com</b>
 
 <h2>Project Stages:</h2>
 
