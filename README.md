@@ -22,7 +22,7 @@ To create the front end I found a template on w3schools.com: <br/>
 <img src="https://imgur.com/aKFlHUQ.png" height="80%" width="80%" alt="Static Website Project Steps"/>
 <br />
 <br />
-Editted the css and html:  <br/>
+Edited the css and html:  <br/>
 <img src="https://imgur.com/QCq3b6I.png" height="80%" width="80%" alt="Static Website Project Steps"/>
 <br />
 <br />
